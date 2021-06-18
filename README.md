@@ -6,4 +6,4 @@
  
 -----------------------------------------------------------------------------------
 
-- Para executar o docker necessario rodar o comando via bash "docker run -it lucaswalim/dockerplay"
+- Para executar o docker é necessario rodar o comando via bash "docker run -it lucaswalim/dockerplay"
